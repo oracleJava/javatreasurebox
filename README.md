@@ -1,4 +1,4 @@
-# javatreasurebox(java 百宝箱)
+# javatreasurebox(java 百宝箱)***一直更新中***
   1. 开源项目（排名不分先后）
      - https://github.com/netty/netty 事件驱动的网络应用框架
      - https://github.com/google/guice 轻量级的依赖注入框架
@@ -14,4 +14,7 @@
      - https://github.com/google/guava google公司内部使用的核心的工具类
   2. 技术网站及博客（排名不分先后）
      - http://tutorials.jenkov.com/ 分享java一些基础的相关知识，且讲解也比较深入
+     - http://ifeve.com/ 技术型博客，以并发编程技术为主
+
+
 
