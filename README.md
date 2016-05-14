@@ -15,6 +15,7 @@
   2. 技术网站及博客（排名不分先后）
      - http://tutorials.jenkov.com/ 分享java一些基础的相关知识，且讲解也比较深入
      - http://ifeve.com/ 技术型博客，以并发编程技术为主
+     - https://github.com/prakhar1989/awesome-courses 非常棒的计算机课程列表
 
 
 
